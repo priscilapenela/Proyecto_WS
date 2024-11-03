@@ -1,0 +1,162 @@
+[
+  {
+    "title": "1. HTML",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/HTML5_logo_and_wordmark.svg_.png",
+    "description": "HTML or Hypertext Markup Language, is a markup language, rather than a programming language. Still, it is one of the first steps taken in the journey of learning coding. It gives a good idea of the basics of programming, hence it can be referred to as the easiest programming language to learn. It is used to define the text, color, and appearance of other dynamic elements/buttons on the webpage."
+  },
+  {
+    "title": "2. JavaScript",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/JavaScript-Logo-1200x750.png",
+    "description": "JavaScript is a web programming language that allows you to develop interactive client-side web elements or web pages. It’s one of the easiest programming languages for beginners."
+  },
+  {
+    "title": "3. Python",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/Python_logo_icon-1028x1024.png",
+    "description": "Python is a fairly easy, all-purpose programming language to learn because of its easy-to-understand syntax and variety of libraries, and readymade functions. This makes Python a good language for beginners to learn as well. Python has a wide variety of applications. It is a programming language that doesn’t have a steep learning curve yet allows learners to enter high-paying careers."
+  },
+  {
+    "title": "4. Ruby",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/396px-Ruby_logo.svg_.png",
+    "description": "Ruby was born after combining several programming languages. It’s an open-source natural programming language and focuses on simplicity and productive use for back-end programming."
+  },
+  {
+    "title": "5. JAVA",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/java-logo-1-1024x1024.png",
+    "description": "JAVA is one of the most popular programming languages for software and application development. It extensively uses object-oriented programming and is among the easiest programming languages to learn. It works on the Write Once, Run Everywhere concept."
+  },
+  {
+    "title": "6. C++",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/c-logo-910x1024.png",
+    "description": "C++ is an extensive programming language that helps build programs where the hardware and software are intricately involved. Interacting with memory is a little difficult in C++ and the advanced syntax could put off beginners."
+  },
+  {
+    "title": "7. Assembly Language",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/assembly-language-edited.webp",
+    "description": "Assembly language is among the hardest programming languages to learn as they’re run and used differently than the above high-level languages. It’s a low-level language used to directly communicate with hardware, only the code is readable by humans."
+  },
+  {
+    "title": "8. Prolog",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/prolog.png",
+    "description": "Prolog, meaning Logical Programming lays utmost emphasis on building accurate logic from the start. It is one of the best programming languages for at language for AI and Natural Language Processing (NLP) programs."
+  },
+  {
+    "title": "9. Haskell",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/haskell.png",
+    "description": "Haskell is a programming language built on Lambda Calculus. It works in a functional paradigm unlike most modern programming languages, which take a more intuitive outlook. This makes it a hard programming language to learn for modern developers."
+  },
+  {
+    "title": "10. Malbolge",
+    "image": "https://www.guvi.in/blog/wp-content/uploads/2023/03/malbolge.png",
+    "description": "Malbolge is one of the esoteric programming languages. Hence, it’s intended to be impossibly challenging to learn. The first Malbolge program wasn’t completed until two years after its creation. It was done by a compiler based on Lisp."
+  },
+  {
+    "title": "1. JavaScript",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/javascript-easiest-programming-language-to-learn.jpg",
+    "description": "To create dynamic and interactive websites, JavaScript is a great text-based scripting language, which is one of the core technologies of the internet. It can develop search bars, on-site animations, and hamburger menus to create interactive client-side web elements. Additionally, it can combine HTML, CSS, and frameworks like React, Angular, and Nodes to build server-side web apps."
+  },
+  {
+    "title": "2. Python",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/python-easiest-programming-language-to-learn.jpg",
+    "description": "For general purposes, you can rely on Python, which is a high-level programming language that builds websites and software. It can be used for rapid prototyping, production-ready software development, connecting to database systems, reading, and modifying files. Notably, its latest version is Python 3, which is famous for its security updates, while other features are the same as Python."
+  },
+  {
+    "title": "3. Ruby",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/ruby-easiest-programming-language-to-learn.jpg",
+    "description": "In the list, Ruby is the third easiest programming language, which is highly portable, open-source, and belongs to the high-level programming class. It is a great general-purpose language that can build desktop apps, static apps, web scrapping, and crawling, which are vital for website indexing."
+  },
+  {
+    "title": "4. CSS",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/css-easiest-programming-language-to-learn.jpg",
+    "description": "CSS, or Cascading Style Sheets, is a programming language that shapes how information looks and sounds on a webpage. It combines HTML, a building material, whereas CSS is a design layout, so they are both learned sequentially. Clearly, it’s not a programming language nor a markup language; it’s a style sheet language that polishes HTML elements."
+  },
+  {
+    "title": "5. HTML",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/html-easiest-programming-language-to-learn.jpg",
+    "description": "Although HTML is a Hypertext Markup language rather than a programming language, it is the first step for new coders on their journey. This is because HTML provides an idea of essential while letting users define the text, color, and appearance on a web page. Furthermore, its modified versions can define a page and an entire web application, such as FBML in the Facebook case."
+  },
+  {
+    "title": "6. Java",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/java-easiest-programming-language-to-learn.jpg",
+    "description": "To resolve your query of “what is the easiest computer programming language to learn,” Java is the next language on the list. It uses object-oriented programming and works on the “Write Once and Run Everywhere” principle to build desktop software. Plus, it can create games, big data, and mobile applications with complete back-end support."
+  },
+  {
+    "title": "7. SQL",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/sql-easiest-programming-language-to-learn.jpg",
+    "description": "After Java, you can count SQL, abbreviated as Structured Query Language, and is responsible for working with databases. It allows users to add, modify, and delete records within database management systems such as LinkedIn, Facebook, and Dell. Moreover, it helps engineers retrieve data from the database, define and manipulate it, and execute queries against it."
+  },
+  {
+    "title": "8. PHP",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/php-easiest-programming-language-to-learn.jpg",
+    "description": "Once you know HTML and the basics of coding, PHP will also become the easiest programming language to learn. PHP, also known as Hypertext Preprocessor, is a general-purpose scripting language for creating dynamic and intuitive websites. Rasmus Lerdorf introduces this open-source and server-side general scripting language, a de-facto coding standard in the web development industry."
+  },
+  {
+    "title": "9. Swift",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/swift-easiest-programming-language-to-learn.jpg",
+    "description": "Apple launched this programming language in 2014 as an Objective-C alternative to develop iOS applications with modem features. It addresses the “What is the easiest computer programming language to learn” concern of beginner coders well. Generally, it is known as an open-source, compiled, and general-purpose language, which has an LLVM compiler and involves Xcode."
+  },
+  {
+    "title": "10. Kotlin",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/09/kotlin-easiest-programming-language-to-learn.jpg",
+    "description": "It’s an object-oriented, interoperable programming language that uses the Java virtual machine, Android, and Java Class Libraries. Java initially designed this language to launch Android applications, but it’s now used for general-purpose developments. It can also be used alongside Java for back-end web apps and front-end development."
+  },
+  {
+    "title": "HTML",
+    "description": "HTML stands for Hyper Text Markup Language. It’s a web-based language that tells a web browser (like Google Chrome, Safari, or Firefox) how to best display text and images on a webpage. It uses a tag system to determine back-end placement and media type. Almost every webpage on the Internet uses HTML to display information."
+  },
+  {
+    "title": "CSS",
+    "description": "HTML & CSS are often learned and used in tandem on whatever project or job you’re doing. CSS is another programming language we teach here at App Academy in our “Web Development Fundamentals” module. CSS, or Cascading Style Sheets, helps you create more descriptive elements for your web page. This can include color, font, layout, branding, or other stylistic choices on the same webpage. We like to say that HTML is the house, while CSS is the decor, paint colors, and furnishings."
+  },
+  {
+    "title": "Python",
+    "description": "Python is written in plain English so it’s easy to understand and read. It’s also an open-source language, meaning anyone can contribute to its development. It can be used for small tasks, large tasks, and repetitive tasks. Python is even used by non-programmers due to its similarity to the structure of the English language."
+  },
+  {
+    "title": "JavaScript",
+    "description": "JavaScript (not to be confused with Java) is the other most popular programming language used across the globe. It’s one of the first languages we teach here at App Academy in our module, “Programming Fundamentals.” It’s used in both front-end and back-end web development and can interact with other languages such as HTML, CSS, and Python."
+  },
+  {
+    "title": "SQL",
+    "description": "SQL (Structured Query Language) works with databases, especially ones that hold enormous amounts of data. SQL allows the user to add, delete, modify, or update records within that database. It’s a common back-end language for anyone who deals with data – and data is everywhere."
+  },
+  {
+    "title": "Ruby & Ruby on Rails",
+    "description": "Ruby is considered one of the easiest programming languages to learn because it’s so straightforward, simple, and accessible. With Ruby, you can create more functionality with less code. Typically, budding programmers learn Ruby more easily than other languages and then use it as a jumping-off point for learning additional languages."
+  },
+  {
+    "title": "Java",
+    "description": "Java is well-known as a “write once, run anywhere” language. This makes it a great choice for programming beginners because it can be run on almost any computer that supports Java. Most Android devices are programmed using Java."
+  },
+  {
+    "title": "PHP",
+    "description": "Once you know a bit of HTML, PHP, or Hypertext Preprocessor, will be one of the quickest programming languages to learn next. Popular with back-end developers, PHP is used within HTML to manage databases. They work together to create more robust, dynamic web pages that can be easily managed or changed. It’s highly secure, making it useful for when you need to secure the data within your programming – Facebook and WordPress both use PHP within their systems."
+  },
+  {
+    "title": "HTML",
+    "description": "HTML (HyperText Markup Language) is an open-source, core language for building web pages, documents and internet navigation. HTML takes information like text, images and hyperlinks and arranges them on a page."
+  },
+  {
+    "title": "CSS",
+    "description": "CSS (Cascading Style Sheets) is a programming language that works with HTML to shape how information appears on a webpage. In other words, HTML is the building materials, and CSS is the design layout."
+  },
+  {
+    "title": "Python",
+    "description": "As of September 2024, Python is currently the most sought-after programming language, according to the PopularitY of Programming Language (PYPL), which uses Google’s reports of the most searched-for programming language tutorials. CoderPad’s State of Tech Hiring 2024 report lists Python as the most sought-after programming language by recruiters, followed closely by JavaScript and Java."
+  },
+  {
+    "title": "Java",
+    "description": "Java is one of the most popular programming languages. Ranking second in popularity according to PYPL, it remains commonly used and highly sought-after for many reasons. Programmers often use Java for mobile and desktop application programming and game development."
+  },
+  {
+    "title": "JavaScript",
+    "description": "In addition to HTML and CSS, JavaScript programs the operations in a webpage. JavaScript is a user-side scripting language that’s intrinsically tied to the dynamic elements of a webpage. According to Stack Overflow’s 2024 Developer Survey, JavaScript is the top language used by professional developers."
+  },
+  {
+    "title": "C",
+    "description": "C is an older programming language that is still widely used because of its practical application and close syntactic relationship to C++, C# and Java. This multi-purpose programming language is often used in software development and operating systems."
+  },
+  {
+    "title": "Ruby",
+    "description": "Ruby’s success is a result of its learnability. Although complex, this language is similar to English."
+  }
+]

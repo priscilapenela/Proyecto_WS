@@ -1,4 +1,4 @@
-# Proyecto de Scraping y Análisis de Frecuencia de Títulos
+# Web Scraping y Análisis de los Lengujes de Programación Web más fáciles de aprender
 Este proyecto realiza scraping de páginas web para extraer títulos de artículos, identificar palabras clave dentro de esos títulos, y analizar la frecuencia de esas palabras clave. Los resultados se utilizan para generar un ranking de los lenguajes de programación web más fáciles de aprender, y los representa en una visualización gráfica.
 
 ## Tabla de Contenidos
@@ -34,13 +34,13 @@ pip install pandas seaborn matplotlib
 ```
 ## Usos
 
-1. *Scraping de datos:* Ejecuta el archivo de scraping en Node.js para extraer los títulos y guardarlos en un archivo JSON:
+1. **Scraping de datos**: Ejecuta el archivo de scraping en Node.js para extraer los títulos y guardarlos en un archivo JSON:
 
 ```bash
-node scrape.js
+node node index.mjs
 
 ```
-2. *Análisis y visualización:* Ejecuta el archivo Python para procesar los datos, generar el ranking de palabras y visualizar los resultados:
+2. **Análisis y visualización**: Ejecuta el archivo Python para procesar los datos, generar el ranking de palabras y visualizar los resultados:
 
 ```bash
 python grafico.py
@@ -48,10 +48,10 @@ python grafico.py
 ```
 ## Archivos
 
-- *scrape.js*: Contiene el script de scraping en Node.js.
-- *grafico.py*: Script en Python que lee los datos JSON generados, analiza la frecuencia de palabras clave y crea un gráfico.
-- *datos_scraping.json*: Archivo JSON donde se almacenan los datos extraídos del scraping.
+- **scrape.js**: Contiene el script de scraping en Node.js.
+- **grafico.py**: Script en Python que lee los datos JSON generados, analiza la frecuencia de palabras clave y crea un gráfico.
+- **datos_scraping.json**: Archivo JSON donde se almacenan los datos extraídos del scraping.
 
 ## Resultados
 
-El gráfico de barras se genera con *seaborn* y *matplotlib*, y muestra los lenguajes de programación web más frecuentes en los títulos analizados.
+El gráfico de barras se genera con **seaborn** y **matplotlib**, y muestra los lenguajes de programación web más frecuentes en los títulos analizados.

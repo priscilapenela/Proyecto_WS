@@ -55,3 +55,4 @@ python grafico.py
 ## 📊 Resultados
 
 El gráfico de barras se genera con **seaborn** y **matplotlib**, y muestra los lenguajes de programación web más frecuentes en los títulos analizados.
+![Resultados](.\Resultados.png)

@@ -30,8 +30,8 @@ La métrica principal de análisis es la frecuencia de aparición de palabras en
 ## 🚀 Instalación 
 ```bash
 # 1. Clonar el repositorio:
-git clone <URL_del_Repositorio>
-cd <Nombre_del_Repositorio>
+git clone <https://github.com/priscilapenela/Proyecto_WS.git>
+cd <Proyecto_WS>
 
 # 2. Instala los paquetes de Node.js necesarios:
 npm install playwright

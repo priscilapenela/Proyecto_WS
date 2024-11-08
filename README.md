@@ -24,7 +24,7 @@ La métrica principal de análisis es la frecuencia de aparición de palabras en
 ## 🔔 Requisitos
 - Node.js
 - Python 3
-- Paquetes de Python: pandas, seaborn, matplotlib
+- Paquetes de Python: seaborn, matplotlib
 - Playwright para Node.js
 
 ## 🚀 Instalación 
@@ -37,7 +37,7 @@ cd <Proyecto_WS>
 npm install playwright
 
 # 3. Instala los paquetes de Python necesarios:
-pip install pandas seaborn matplotlib
+pip install seaborn matplotlib
 
 ```
 ## 💡 Uso

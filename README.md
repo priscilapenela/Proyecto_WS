@@ -44,7 +44,7 @@ pip install seaborn matplotlib
 1. **Scraping de datos**: Ejecuta el archivo de scraping en Node.js para extraer los títulos y guardarlos en un archivo JSON:
 
 ```bash
-node node index.mjs
+node index.mjs
 
 ```
 2. **Análisis y visualización**: Ejecuta el archivo Python para procesar los datos, generar el ranking de palabras y visualizar los resultados:
